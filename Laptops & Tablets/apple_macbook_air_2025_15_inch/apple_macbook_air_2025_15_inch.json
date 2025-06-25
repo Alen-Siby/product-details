@@ -1,0 +1,268 @@
+{
+    "name": {
+        "en": "Apple 2025 MacBook Air (15-inch, M4 chip, 24GB RAM, 1TB SSD, Midnight)",
+        "en-US": "Apple 2025 MacBook Air (15-inch, M4 chip, 24GB RAM, 1TB SSD, Midnight)",
+        "de-DE": "Apple 2025 MacBook Air (15-Zoll, M4-Chip, 24GB RAM, 1TB SSD, Mitternacht)"
+    },
+    "productType": {
+        "typeId": "product-type",
+        "id": "d15448f0-7eaf-4c46-bf43-5ab0ff6e999e"
+    },
+    "slug": {
+        "en": "apple-2025-macbook-air-15-inch-m4-chip-24gb-ram-1tb-ssd-midnight",
+        "en-US": "apple-2025-macbook-air-15-inch-m4-chip-24gb-ram-1tb-ssd-midnight",
+        "de-DE": "apple-2025-macbook-air-15-zoll-m4-chip-24gb-ram-1tb-ssd-mitternacht"
+    },
+    "masterVariant": {
+        "sku": "APPLE-MACBOOK-AIR-2025-MIDNIGHT",
+        "prices": [
+            {
+                "value": {
+                    "currencyCode": "USD",
+                    "centAmount": 160255
+                }
+            },
+            {
+                "value": {
+                    "currencyCode": "USD",
+                    "centAmount": 179900
+                }
+            }
+        ],
+        "attributes": [
+            {
+                "name": "brand",
+                "value": "Apple"
+            },
+            {
+                "name": "batteryLife",
+                "value": 18
+            },
+            {
+                "name": "color",
+                "value": "Midnight"
+            },
+            {
+                "name": "warranty",
+                "value": 12
+            },
+            {
+                "name": "processor",
+                "value": "Apple M4 chip with 10-core CPU and 10-core GPU"
+            },
+            {
+                "name": "memory",
+                "value": "24GB Unified Memory"
+            },
+            {
+                "name": "storage",
+                "value": "1TB SSD"
+            },
+            {
+                "name": "display",
+                "value": "15.3-inch Liquid Retina, supports 1 billion colors"
+            },
+            {
+                "name": "camera",
+                "value": "12MP Center Stage camera"
+            },
+            {
+                "name": "audio",
+                "value": "3 mics, 4 speakers with Spatial Audio"
+            },
+            {
+                "name": "ports",
+                "value": "MagSafe charging, Thunderbolt 4 ports, Wi-Fi 6E, Bluetooth 5.3"
+            },
+            {
+                "name": "weight",
+                "value": "3.3 pounds"
+            }
+        ]
+    },
+    "variants": [
+        {
+            "sku": "APPLE-MACBOOK-AIR-2025-SILVER",
+            "prices": [
+                {
+                    "value": {
+                        "currencyCode": "USD",
+                        "centAmount": 153900
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "brand",
+                    "value": "Apple"
+                },
+                {
+                    "name": "batteryLife",
+                    "value": 18
+                },
+                {
+                    "name": "color",
+                    "value": "Silver"
+                },
+                {
+                    "name": "warranty",
+                    "value": 12
+                },
+                {
+                    "name": "processor",
+                    "value": "Apple M4 chip with 10-core CPU and 8-core GPU"
+                },
+                {
+                    "name": "memory",
+                    "value": "16GB Unified Memory"
+                },
+                {
+                    "name": "storage",
+                    "value": "1TB SSD"
+                },
+                {
+                    "name": "display",
+                    "value": "15.3-inch Liquid Retina, supports 1 billion colors"
+                },
+                {
+                    "name": "camera",
+                    "value": "12MP Center Stage camera"
+                },
+                {
+                    "name": "audio",
+                    "value": "3 mics, 4 speakers with Spatial Audio"
+                },
+                {
+                    "name": "ports",
+                    "value": "MagSafe charging, Thunderbolt 4 ports, Wi-Fi 6E, Bluetooth 5.3"
+                },
+                {
+                    "name": "weight",
+                    "value": "3.3 pounds"
+                }
+            ]
+        },
+        {
+            "sku": "APPLE-MACBOOK-AIR-2025-SPACE-GRAY",
+            "prices": [
+                {
+                    "value": {
+                        "currencyCode": "USD",
+                        "centAmount": 136990
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "brand",
+                    "value": "Apple"
+                },
+                {
+                    "name": "batteryLife",
+                    "value": 18
+                },
+                {
+                    "name": "color",
+                    "value": "Space Gray"
+                },
+                {
+                    "name": "warranty",
+                    "value": 12
+                },
+                {
+                    "name": "processor",
+                    "value": "Apple M3 chip with 8-core CPU and 10-core GPU"
+                },
+                {
+                    "name": "memory",
+                    "value": "24GB Unified Memory"
+                },
+                {
+                    "name": "storage",
+                    "value": "512GB SSD"
+                },
+                {
+                    "name": "display",
+                    "value": "15.3-inch Liquid Retina, supports 1 billion colors"
+                },
+                {
+                    "name": "camera",
+                    "value": "12MP Center Stage camera"
+                },
+                {
+                    "name": "audio",
+                    "value": "3 mics, 4 speakers with Spatial Audio"
+                },
+                {
+                    "name": "ports",
+                    "value": "MagSafe charging, Thunderbolt 4 ports, Wi-Fi 6E, Bluetooth 5.3"
+                },
+                {
+                    "name": "weight",
+                    "value": "3.3 pounds"
+                }
+            ]
+        },
+        {
+            "sku": "APPLE-MACBOOK-AIR-2025-MIDNIGHT",
+            "prices": [
+                {
+                    "value": {
+                        "currencyCode": "USD",
+                        "centAmount": 147990
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "brand",
+                    "value": "Apple"
+                },
+                {
+                    "name": "batteryLife",
+                    "value": 18
+                },
+                {
+                    "name": "color",
+                    "value": "Midnight"
+                },
+                {
+                    "name": "warranty",
+                    "value": 12
+                },
+                {
+                    "name": "processor",
+                    "value": "Apple M3 chip with 8-core CPU and 10-core GPU"
+                },
+                {
+                    "name": "memory",
+                    "value": "24GB Unified Memory"
+                },
+                {
+                    "name": "storage",
+                    "value": "512GB SSD"
+                },
+                {
+                    "name": "display",
+                    "value": "15.3-inch Liquid Retina, supports 1 billion colors"
+                },
+                {
+                    "name": "camera",
+                    "value": "12MP Center Stage camera"
+                },
+                {
+                    "name": "audio",
+                    "value": "3 mics, 4 speakers with Spatial Audio"
+                },
+                {
+                    "name": "ports",
+                    "value": "MagSafe charging, Thunderbolt 4 ports, Wi-Fi 6E, Bluetooth 5.3"
+                },
+                {
+                    "name": "weight",
+                    "value": "3.3 pounds"
+                }
+            ]
+        }
+    ]
+}
