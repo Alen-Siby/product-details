@@ -1,0 +1,286 @@
+[
+  {
+    "name": {
+      "en": "Anker Soundcore Motion X600 Portable Speaker"
+    },
+    "productType": {
+      "typeId": "speaker",
+      "id": "anker-motion-x600"
+    },
+    "slug": {
+      "en": "anker-soundcore-motion-x600"
+    },
+    "variants": [
+      {
+        "sku": "ANKER-MOTION-X600-GRY",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 14900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Gray"
+          },
+          {
+            "name": "batteryLife",
+            "value": 12
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zk-UzLMQL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "ANKER-MOTION-X600-BLK",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 14900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Black"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zk-UzLMQL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "ANKER-MOTION-X600-BLU",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 14900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Blue"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zk-UzLMQL._AC_SL1500_.jpg"
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Sonos Roam 2 Portable Smart Speaker"
+    },
+    "productType": {
+      "typeId": "speaker",
+      "id": "sonos-roam-2"
+    },
+    "slug": {
+      "en": "sonos-roam-2"
+    },
+    "variants": [
+      {
+        "sku": "SONOS-ROAM2-BLK",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 17900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Black"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61mG9rBwHnL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "SONOS-ROAM2-SLT",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 17900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Slate"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71fwcINk3CL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "SONOS-ROAM2-GRN",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 17900
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "color",
+            "value": "Green"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61fWdz+62mL._AC_SL1500_.jpg"
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Fitbit Versa 4 Fitness Smartwatch"
+    },
+    "productType": {
+      "typeId": "watch",
+      "id": "fitbit-versa-4"
+    },
+    "slug": {
+      "en": "fitbit-versa-4"
+    },
+    "variants": [
+      {
+        "sku": "FITBIT-VERSA4-BLK-BND",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 19995
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "bandColor",
+            "value": "Black"
+          },
+          {
+            "name": "gps",
+            "value": true
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61j2n99fcdL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "FITBIT-VERSA4-SLV-BND",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 19995
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "bandColor",
+            "value": "Silver"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61WEduTgL7L._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "FITBIT-VERSA4-ROSE-BND",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 19995
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "bandColor",
+            "value": "Rosewood"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/61tzkaX41UL._AC_SL1500_.jpg"
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Garmin Venu 3 GPS Smartwatch"
+    },
+    "productType": {
+      "typeId": "watch",
+      "id": "garmin-venu-3"
+    },
+    "slug": {
+      "en": "garmin-venu-3"
+    },
+    "variants": [
+      {
+        "sku": "GARMIN-VENU3-BLK-SIL",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 45000
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "caseColor",
+            "value": "Black/Silver"
+          },
+          {
+            "name": "amoledDisplay",
+            "value": true
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71rIDfg+aiL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "GARMIN-VENU3-BRN-GOLD",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 45000
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "caseColor",
+            "value": "Brown/Gold"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71bMB9yX5pL._AC_SL1500_.jpg"
+      },
+      {
+        "sku": "GARMIN-VENU3-BLU-STL",
+        "prices": [
+          {
+            "value": {
+              "currencyCode": "USD",
+              "centAmount": 45000
+            }
+          }
+        ],
+        "attributes": [
+          {
+            "name": "caseColor",
+            "value": "Blue/Steel"
+          }
+        ],
+        "imageUrl": "https://m.media-amazon.com/images/I/71EmNUZtqTL._AC_SL1500_.jpg"
+      }
+    ]
+  }
+]
