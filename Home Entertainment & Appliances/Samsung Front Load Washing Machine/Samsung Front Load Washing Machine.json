@@ -1,0 +1,149 @@
+{
+  "name": {
+    "en": "Samsung Front Load Washing Machine with Eco Bubble Technology"
+  },
+  "productType": {
+    "typeId": "washing-machine",
+    "id": "samsung-ecobubble-frontload"
+  },
+  "slug": {
+    "en": "samsung-front-load-eco-bubble"
+  },
+  "masterVariant": {
+    "sku": "SAMSUNG-FL-7KG-WHT",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "INR",
+          "centAmount": 319900
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "capacity",
+        "value": "7 kg"
+      },
+      {
+        "name": "color",
+        "value": "White"
+      },
+      {
+        "name": "energyRating",
+        "value": "5 Star"
+      },
+      {
+        "name": "steamWash",
+        "value": false
+      },
+      {
+        "name": "aiControl",
+        "value": false
+      },
+      {
+        "name": "wifiEnabled",
+        "value": false
+      },
+      {
+        "name": "spinSpeed",
+        "value": "1200 RPM"
+      },
+      {
+        "name": "washPrograms",
+        "value": ["Cotton", "Wool", "Quick Wash", "Rinse+Spin"]
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "SAMSUNG-FL-8KG-SLV",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "INR",
+            "centAmount": 359900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "capacity",
+          "value": "8 kg"
+        },
+        {
+          "name": "color",
+          "value": "Silver"
+        },
+        {
+          "name": "energyRating",
+          "value": "5 Star"
+        },
+        {
+          "name": "steamWash",
+          "value": true
+        },
+        {
+          "name": "aiControl",
+          "value": true
+        },
+        {
+          "name": "wifiEnabled",
+          "value": true
+        },
+        {
+          "name": "spinSpeed",
+          "value": "1400 RPM"
+        },
+        {
+          "name": "washPrograms",
+          "value": ["Cotton", "Wool", "Delicate", "Steam Wash", "15 Min Quick Wash"]
+        }
+      ]
+    },
+    {
+      "sku": "SAMSUNG-FL-9KG-GRY",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "INR",
+            "centAmount": 419900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "capacity",
+          "value": "9 kg"
+        },
+        {
+          "name": "color",
+          "value": "Graphite Grey"
+        },
+        {
+          "name": "energyRating",
+          "value": "5 Star"
+        },
+        {
+          "name": "steamWash",
+          "value": true
+        },
+        {
+          "name": "aiControl",
+          "value": true
+        },
+        {
+          "name": "wifiEnabled",
+          "value": true
+        },
+        {
+          "name": "spinSpeed",
+          "value": "1400 RPM"
+        },
+        {
+          "name": "washPrograms",
+          "value": ["Cotton", "Wool", "Hygiene Steam", "Bedding", "Eco Drum Clean"]
+        }
+      ]
+    }
+  ]
+}
