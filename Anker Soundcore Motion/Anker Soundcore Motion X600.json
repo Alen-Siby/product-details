@@ -1,0 +1,161 @@
+{
+  "name": {
+    "en": "Anker Soundcore Motion X600 Portable Speaker"
+  },
+  "productType": {
+    "typeId": "speaker",
+    "id": "anker-motion-x600"
+  },
+  "slug": {
+    "en": "anker-soundcore-motion-x600"
+  },
+  "variants": [
+    {
+      "sku": "ANKER-MOTION-X600-GRY",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Gray"
+        },
+        {
+          "name": "batteryLife",
+          "value": 12
+        },
+        {
+          "name": "bluetoothVersion",
+          "value": "5.3"
+        },
+        {
+          "name": "waterResistance",
+          "value": "IPX7"
+        },
+        {
+          "name": "driverType",
+          "value": "Dual Woofer + Tweeter"
+        },
+        {
+          "name": "voiceAssistantSupport",
+          "value": true
+        },
+        {
+          "name": "chargingPort",
+          "value": "USB-C"
+        },
+        {
+          "name": "dimensions",
+          "value": "26 x 7.6 x 9.4 cm"
+        },
+        {
+          "name": "weight",
+          "value": "1.95 kg"
+        }
+      ]
+    },
+    {
+      "sku": "ANKER-MOTION-X600-BLK",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Black"
+        },
+        {
+          "name": "batteryLife",
+          "value": 12
+        },
+        {
+          "name": "bluetoothVersion",
+          "value": "5.3"
+        },
+        {
+          "name": "waterResistance",
+          "value": "IPX7"
+        },
+        {
+          "name": "driverType",
+          "value": "Dual Woofer + Tweeter"
+        },
+        {
+          "name": "voiceAssistantSupport",
+          "value": true
+        },
+        {
+          "name": "chargingPort",
+          "value": "USB-C"
+        },
+        {
+          "name": "dimensions",
+          "value": "26 x 7.6 x 9.4 cm"
+        },
+        {
+          "name": "weight",
+          "value": "1.95 kg"
+        }
+      ]
+    },
+    {
+      "sku": "ANKER-MOTION-X600-BLU",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Blue"
+        },
+        {
+          "name": "batteryLife",
+          "value": 12
+        },
+        {
+          "name": "bluetoothVersion",
+          "value": "5.3"
+        },
+        {
+          "name": "waterResistance",
+          "value": "IPX7"
+        },
+        {
+          "name": "driverType",
+          "value": "Dual Woofer + Tweeter"
+        },
+        {
+          "name": "voiceAssistantSupport",
+          "value": true
+        },
+        {
+          "name": "chargingPort",
+          "value": "USB-C"
+        },
+        {
+          "name": "dimensions",
+          "value": "26 x 7.6 x 9.4 cm"
+        },
+        {
+          "name": "weight",
+          "value": "1.95 kg"
+        }
+      ]
+    }
+  ]
+}
