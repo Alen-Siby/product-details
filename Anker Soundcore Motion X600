@@ -1,0 +1,69 @@
+{
+  "name": {
+    "en": "Anker Soundcore Motion X600 Portable Speaker"
+  },
+  "productType": {
+    "typeId": "speaker",
+    "id": "anker-motion-x600"
+  },
+  "slug": {
+    "en": "anker-soundcore-motion-x600"
+  },
+  "variants": [
+    {
+      "sku": "ANKER-MOTION-X600-GRY",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Gray"
+        },
+        {
+          "name": "batteryLife",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "sku": "ANKER-MOTION-X600-BLK",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "sku": "ANKER-MOTION-X600-BLU",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 14900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Blue"
+        }
+      ]
+    }
+  ]
+}
