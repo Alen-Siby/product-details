@@ -1,0 +1,65 @@
+{
+  "name": {
+    "en": "Sonos Roam 2 Portable Smart Speaker"
+  },
+  "productType": {
+    "typeId": "speaker",
+    "id": "sonos-roam-2"
+  },
+  "slug": {
+    "en": "sonos-roam-2"
+  },
+  "variants": [
+    {
+      "sku": "SONOS-ROAM2-BLK",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 17900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "sku": "SONOS-ROAM2-SLT",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 17900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Slate"
+        }
+      ]
+    },
+    {
+      "sku": "SONOS-ROAM2-GRN",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 17900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "color",
+          "value": "Green"
+        }
+      ]
+    }
+  ]
+}

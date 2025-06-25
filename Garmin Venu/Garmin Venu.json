@@ -1,0 +1,69 @@
+{
+  "name": {
+    "en": "Garmin Venu 3 GPS Smartwatch"
+  },
+  "productType": {
+    "typeId": "watch",
+    "id": "garmin-venu-3"
+  },
+  "slug": {
+    "en": "garmin-venu-3"
+  },
+  "variants": [
+    {
+      "sku": "GARMIN-VENU3-BLK-SIL",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 45000
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "caseColor",
+          "value": "Black/Silver"
+        },
+        {
+          "name": "amoledDisplay",
+          "value": true
+        }
+      ]
+    },
+    {
+      "sku": "GARMIN-VENU3-BRN-GOLD",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 45000
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "caseColor",
+          "value": "Brown/Gold"
+        }
+      ]
+    },
+    {
+      "sku": "GARMIN-VENU3-BLU-STL",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 45000
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "caseColor",
+          "value": "Blue/Steel"
+        }
+      ]
+    }
+  ]
+}

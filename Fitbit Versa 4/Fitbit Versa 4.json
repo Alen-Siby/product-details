@@ -1,0 +1,69 @@
+{
+  "name": {
+    "en": "Fitbit Versa 4 Fitness Smartwatch"
+  },
+  "productType": {
+    "typeId": "watch",
+    "id": "fitbit-versa-4"
+  },
+  "slug": {
+    "en": "fitbit-versa-4"
+  },
+  "variants": [
+    {
+      "sku": "FITBIT-VERSA4-BLK-BND",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 19995
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "bandColor",
+          "value": "Black"
+        },
+        {
+          "name": "gps",
+          "value": true
+        }
+      ]
+    },
+    {
+      "sku": "FITBIT-VERSA4-SLV-BND",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 19995
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "bandColor",
+          "value": "Silver"
+        }
+      ]
+    },
+    {
+      "sku": "FITBIT-VERSA4-ROSE-BND",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 19995
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "bandColor",
+          "value": "Rosewood"
+        }
+      ]
+    }
+  ]
+}
