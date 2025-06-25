@@ -28,6 +28,34 @@
         {
           "name": "gps",
           "value": true
+        },
+        {
+          "name": "displayType",
+          "value": "AMOLED"
+        },
+        {
+          "name": "waterResistance",
+          "value": "50 meters"
+        },
+        {
+          "name": "batteryLife",
+          "value": "6+ days"
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "voiceAssistant",
+          "value": "Google Assistant"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi"]
         }
       ]
     },
@@ -45,6 +73,38 @@
         {
           "name": "bandColor",
           "value": "Silver"
+        },
+        {
+          "name": "gps",
+          "value": true
+        },
+        {
+          "name": "displayType",
+          "value": "AMOLED"
+        },
+        {
+          "name": "waterResistance",
+          "value": "50 meters"
+        },
+        {
+          "name": "batteryLife",
+          "value": "6+ days"
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "voiceAssistant",
+          "value": "Google Assistant"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi"]
         }
       ]
     },
@@ -62,6 +122,38 @@
         {
           "name": "bandColor",
           "value": "Rosewood"
+        },
+        {
+          "name": "gps",
+          "value": true
+        },
+        {
+          "name": "displayType",
+          "value": "AMOLED"
+        },
+        {
+          "name": "waterResistance",
+          "value": "50 meters"
+        },
+        {
+          "name": "batteryLife",
+          "value": "6+ days"
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "voiceAssistant",
+          "value": "Google Assistant"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi"]
         }
       ]
     }

@@ -28,6 +28,38 @@
         {
           "name": "amoledDisplay",
           "value": true
+        },
+        {
+          "name": "batteryLife",
+          "value": "14 days"
+        },
+        {
+          "name": "gps",
+          "value": true
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "bodyBatteryEnergyMonitor",
+          "value": true
+        },
+        {
+          "name": "displaySize",
+          "value": "1.4 inches"
+        },
+        {
+          "name": "chargingType",
+          "value": "Proprietary USB Cable"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi", "ANT+"]
         }
       ]
     },
@@ -45,6 +77,42 @@
         {
           "name": "caseColor",
           "value": "Brown/Gold"
+        },
+        {
+          "name": "amoledDisplay",
+          "value": true
+        },
+        {
+          "name": "batteryLife",
+          "value": "14 days"
+        },
+        {
+          "name": "gps",
+          "value": true
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "bodyBatteryEnergyMonitor",
+          "value": true
+        },
+        {
+          "name": "displaySize",
+          "value": "1.4 inches"
+        },
+        {
+          "name": "chargingType",
+          "value": "Proprietary USB Cable"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi", "ANT+"]
         }
       ]
     },
@@ -62,6 +130,42 @@
         {
           "name": "caseColor",
           "value": "Blue/Steel"
+        },
+        {
+          "name": "amoledDisplay",
+          "value": true
+        },
+        {
+          "name": "batteryLife",
+          "value": "14 days"
+        },
+        {
+          "name": "gps",
+          "value": true
+        },
+        {
+          "name": "heartRateMonitoring",
+          "value": true
+        },
+        {
+          "name": "sleepTracking",
+          "value": true
+        },
+        {
+          "name": "bodyBatteryEnergyMonitor",
+          "value": true
+        },
+        {
+          "name": "displaySize",
+          "value": "1.4 inches"
+        },
+        {
+          "name": "chargingType",
+          "value": "Proprietary USB Cable"
+        },
+        {
+          "name": "connectivity",
+          "value": ["Bluetooth", "Wi-Fi", "ANT+"]
         }
       ]
     }
