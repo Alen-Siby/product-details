@@ -11,7 +11,7 @@
   },
   "variants": [
     {
-      "sku": "GARMIN-VENU3-BLK-SIL",
+      "sku": "GARMIN-VENU3-BLK",
       "prices": [
         {
           "value": {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "sku": "GARMIN-VENU3-BLU-STL",
+      "sku": "GARMIN-VENU3-WHT-STL",
       "prices": [
         {
           "value": {
