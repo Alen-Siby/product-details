@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Nothing Phone (2)",
+    "en-US": "Nothing Phone (2)"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "nothing-phone-2-type"
+  },
+  "slug": {
+    "en": "nothing-phone-2",
+    "en-US": "nothing-phone-2"
+  },
+  "masterVariant": {
+    "sku": "NOTHING2-256GB-WHT",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 69900
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "brand",
+        "value": "Nothing"
+      },
+      {
+        "name": "storage",
+        "value": "256GB"
+      },
+      {
+        "name": "color",
+        "value": "White"
+      },
+      {
+        "name": "batteryCapacity",
+        "value": "4700mAh"
+      },
+      {
+        "name": "camera",
+        "value": "50MP + 50MP"
+      },
+      {
+        "name": "displaySize",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "processor",
+        "value": "Snapdragon 8+ Gen 1"
+      },
+      {
+        "name": "warranty",
+        "value": "12 months"
+      },
+      {
+        "name": "glyphInterface",
+        "value": true
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "NOTHING2-512GB-BLK",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 79900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "brand",
+          "value": "Nothing"
+        },
+        {
+          "name": "storage",
+          "value": "512GB"
+        },
+        {
+          "name": "color",
+          "value": "Black"
+        },
+        {
+          "name": "batteryCapacity",
+          "value": "4700mAh"
+        },
+        {
+          "name": "camera",
+          "value": "50MP + 50MP"
+        },
+        {
+          "name": "displaySize",
+          "value": "6.7 inch"
+        },
+        {
+          "name": "processor",
+          "value": "Snapdragon 8+ Gen 1"
+        },
+        {
+          "name": "warranty",
+          "value": "12 months"
+        },
+        {
+          "name": "glyphInterface",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Google Pixel 9a",
+    "en-US": "Google Pixel 9a"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "pixel-9a-type"
+  },
+  "slug": {
+    "en": "google-pixel-9a",
+    "en-US": "google-pixel-9a"
+  },
+  "masterVariant": {
+    "sku": "PIXEL9A-128GB-PNY",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 49900
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "brand",
+        "value": "Google"
+      },
+      {
+        "name": "storage",
+        "value": "128GB"
+      },
+      {
+        "name": "color",
+        "value": "Peony"
+      },
+      {
+        "name": "batteryCapacity",
+        "value": "4492mAh"
+      },
+      {
+        "name": "camera",
+        "value": "64MP + 13MP"
+      },
+      {
+        "name": "displaySize",
+        "value": "6.1 inch"
+      },
+      {
+        "name": "processor",
+        "value": "Google Tensor G3"
+      },
+      {
+        "name": "warranty",
+        "value": "12 months"
+      },
+      {
+        "name": "waterResistance",
+        "value": "IP67"
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "PIXEL9A-256GB-OBS",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 59900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "brand",
+          "value": "Google"
+        },
+        {
+          "name": "storage",
+          "value": "256GB"
+        },
+        {
+          "name": "color",
+          "value": "Obsidian"
+        },
+        {
+          "name": "batteryCapacity",
+          "value": "4492mAh"
+        },
+        {
+          "name": "camera",
+          "value": "64MP + 13MP"
+        },
+        {
+          "name": "displaySize",
+          "value": "6.1 inch"
+        },
+        {
+          "name": "processor",
+          "value": "Google Tensor G3"
+        },
+        {
+          "name": "warranty",
+          "value": "12 months"
+        },
+        {
+          "name": "waterResistance",
+          "value": "IP67"
+        }
+      ]
+    }
+  ]
+}

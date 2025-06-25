@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Samsung Galaxy Buds2 Pro",
+    "en-US": "Samsung Galaxy Buds2 Pro"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "galaxy-buds2-pro-type"
+  },
+  "slug": {
+    "en": "samsung-galaxy-buds2-pro",
+    "en-US": "samsung-galaxy-buds2-pro"
+  },
+  "masterVariant": {
+    "sku": "GALBUDS2PRO-GPH",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 22999
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "brand",
+        "value": "Samsung"
+      },
+      {
+        "name": "color",
+        "value": "Graphite"
+      },
+      {
+        "name": "batteryLife",
+        "value": "8 hours (earbuds), 29 hours (with case)"
+      },
+      {
+        "name": "noiseCancellation",
+        "value": true
+      },
+      {
+        "name": "waterResistance",
+        "value": "IPX7"
+      },
+      {
+        "name": "connectivity",
+        "value": "Bluetooth 5.3"
+      },
+      {
+        "name": "warranty",
+        "value": "12 months"
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "GALBUDS2PRO-BPR",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 22999
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "brand",
+          "value": "Samsung"
+        },
+        {
+          "name": "color",
+          "value": "Bora Purple"
+        },
+        {
+          "name": "batteryLife",
+          "value": "8 hours (earbuds), 29 hours (with case)"
+        },
+        {
+          "name": "noiseCancellation",
+          "value": true
+        },
+        {
+          "name": "waterResistance",
+          "value": "IPX7"
+        },
+        {
+          "name": "connectivity",
+          "value": "Bluetooth 5.3"
+        },
+        {
+          "name": "warranty",
+          "value": "12 months"
+        }
+      ]
+    }
+  ]
+}
