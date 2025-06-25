@@ -1,0 +1,161 @@
+{
+  "name": {
+    "en": "Sony Bravia 4K Ultra HD Smart LED TV"
+  },
+  "productType": {
+    "typeId": "television",
+    "id": "sony-bravia-4k-smart-tv"
+  },
+  "slug": {
+    "en": "sony-bravia-4k-smart-tv"
+  },
+  "masterVariant": {
+    "sku": "SONY-TV-43IN-BLK",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "INR",
+          "centAmount": 449900
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "screenSize",
+        "value": "43 inches"
+      },
+      {
+        "name": "resolution",
+        "value": "4K Ultra HD"
+      },
+      {
+        "name": "color",
+        "value": "Black"
+      },
+      {
+        "name": "smartTV",
+        "value": true
+      },
+      {
+        "name": "os",
+        "value": "Google TV"
+      },
+      {
+        "name": "voiceAssistantSupport",
+        "value": ["Google Assistant", "Alexa"]
+      },
+      {
+        "name": "hdmiPorts",
+        "value": 3
+      },
+      {
+        "name": "usbPorts",
+        "value": 2
+      },
+      {
+        "name": "refreshRate",
+        "value": "60Hz"
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "SONY-TV-50IN-BLK",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "INR",
+            "centAmount": 529900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "screenSize",
+          "value": "50 inches"
+        },
+        {
+          "name": "resolution",
+          "value": "4K Ultra HD"
+        },
+        {
+          "name": "color",
+          "value": "Black"
+        },
+        {
+          "name": "smartTV",
+          "value": true
+        },
+        {
+          "name": "os",
+          "value": "Google TV"
+        },
+        {
+          "name": "voiceAssistantSupport",
+          "value": ["Google Assistant", "Alexa"]
+        },
+        {
+          "name": "hdmiPorts",
+          "value": 3
+        },
+        {
+          "name": "usbPorts",
+          "value": 2
+        },
+        {
+          "name": "refreshRate",
+          "value": "60Hz"
+        }
+      ]
+    },
+    {
+      "sku": "SONY-TV-65IN-STL",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "INR",
+            "centAmount": 789900
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "screenSize",
+          "value": "65 inches"
+        },
+        {
+          "name": "resolution",
+          "value": "4K Ultra HD"
+        },
+        {
+          "name": "color",
+          "value": "Stainless Silver"
+        },
+        {
+          "name": "smartTV",
+          "value": true
+        },
+        {
+          "name": "os",
+          "value": "Google TV"
+        },
+        {
+          "name": "voiceAssistantSupport",
+          "value": ["Google Assistant", "Alexa"]
+        },
+        {
+          "name": "hdmiPorts",
+          "value": 4
+        },
+        {
+          "name": "usbPorts",
+          "value": 2
+        },
+        {
+          "name": "refreshRate",
+          "value": "120Hz"
+        }
+      ]
+    }
+  ]
+}
