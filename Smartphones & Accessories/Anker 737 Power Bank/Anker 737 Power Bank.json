@@ -1,0 +1,110 @@
+{
+  "name": {
+    "en": "Anker 737 Power Bank (PowerCore 24K)",
+    "en-US": "Anker 737 Power Bank (PowerCore 24K)"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "anker-737-powerbank-type"
+  },
+  "slug": {
+    "en": "anker-737-power-bank",
+    "en-US": "anker-737-power-bank"
+  },
+  "masterVariant": {
+    "sku": "ANKER737-24K-STANDARD",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 15999
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "brand",
+        "value": "Anker"
+      },
+      {
+        "name": "capacity",
+        "value": "24000mAh"
+      },
+      {
+        "name": "color",
+        "value": "Black"
+      },
+      {
+        "name": "ports",
+        "value": "2x USB-C, 1x USB-A"
+      },
+      {
+        "name": "maxOutput",
+        "value": "140W"
+      },
+      {
+        "name": "display",
+        "value": "Smart digital display"
+      },
+      {
+        "name": "warranty",
+        "value": "18 months"
+      },
+      {
+        "name": "powerDelivery",
+        "value": true
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "ANKER737-24K-BUNDLE",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 17999
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "brand",
+          "value": "Anker"
+        },
+        {
+          "name": "capacity",
+          "value": "24000mAh"
+        },
+        {
+          "name": "color",
+          "value": "Black"
+        },
+        {
+          "name": "ports",
+          "value": "2x USB-C, 1x USB-A"
+        },
+        {
+          "name": "maxOutput",
+          "value": "140W"
+        },
+        {
+          "name": "display",
+          "value": "Smart digital display"
+        },
+        {
+          "name": "warranty",
+          "value": "18 months"
+        },
+        {
+          "name": "powerDelivery",
+          "value": true
+        },
+        {
+          "name": "bundleIncludes",
+          "value": "USB-C to USB-C cable"
+        }
+      ]
+    }
+  ]
+}
