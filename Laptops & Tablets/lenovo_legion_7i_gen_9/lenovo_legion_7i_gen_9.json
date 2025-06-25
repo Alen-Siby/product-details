@@ -1,0 +1,213 @@
+{
+    "name": {
+        "en": "Lenovo Legion 7i Gen 9 Gaming Laptop (16-inch, Intel Core i9-14900HX, 32GB RAM, 2TB SSD, RTX 4070, Glacier White)",
+        "en-US": "Lenovo Legion 7i Gen 9 Gaming Laptop (16-inch, Intel Core i9-14900HX, 32GB RAM, 2TB SSD, RTX 4070, Glacier White)",
+        "de-DE": "Lenovo Legion 7i Gen 9 Gaming Laptop (16-Zoll, Intel Core i9-14900HX, 32GB RAM, 2TB SSD, RTX 4070, Gletscherwei\u00df)"
+    },
+    "productType": {
+        "typeId": "product-type",
+        "id": "d15448f0-7eaf-4c46-bf43-5ab0ff6e999e"
+    },
+    "slug": {
+        "en": "lenovo-legion-7i-gen-9-gaming-laptop-16-inch-intel-core-i9-14900hx-32gb-ram-2tb-ssd-rtx-4070-glacier-white",
+        "en-US": "lenovo-legion-7i-gen-9-gaming-laptop-16-inch-intel-core-i9-14900hx-32gb-ram-2tb-ssd-rtx-4070-glacier-white",
+        "de-DE": "lenovo-legion-7i-gen-9-gaming-laptop-16-zoll-intel-core-i9-14900hx-32gb-ram-2tb-ssd-rtx-4070-gletscherwei\u00df"
+    },
+    "masterVariant": {
+        "sku": "LENOVO-LEGION-7I-GEN-9-GLACIER-WHITE",
+        "prices": [
+            {
+                "value": {
+                    "currencyCode": "USD",
+                    "centAmount": 249900
+                }
+            }
+        ],
+        "attributes": [
+            {
+                "name": "brand",
+                "value": "Lenovo"
+            },
+            {
+                "name": "batteryLife",
+                "value": 99.9
+            },
+            {
+                "name": "color",
+                "value": "Glacier White"
+            },
+            {
+                "name": "warranty",
+                "value": 12
+            },
+            {
+                "name": "processor",
+                "value": "Intel Core i9-14900HX"
+            },
+            {
+                "name": "memory",
+                "value": "32GB DDR5-5600MHz"
+            },
+            {
+                "name": "storage",
+                "value": "2TB SSD"
+            },
+            {
+                "name": "display",
+                "value": "16-inch WQXGA (2560x1600) IPS, 500 nits, 240Hz"
+            },
+            {
+                "name": "graphicsCard",
+                "value": "NVIDIA GeForce RTX 4070 Laptop GPU 8GB GDDR6"
+            },
+            {
+                "name": "camera",
+                "value": "1080P FHD with Dual Microphone and Electronic Privacy Shutter"
+            },
+            {
+                "name": "audio",
+                "value": "Per-Key RGB Backlit Keyboard, White"
+            },
+            {
+                "name": "ports",
+                "value": "USB-C (Thunderbolt 4 / USB4 40Gbps), with PD 140W and DisplayPort 1.4"
+            },
+            {
+                "name": "weight",
+                "value": "2.24 kg (4.94 lbs)"
+            }
+        ]
+    },
+    "variants": [
+        {
+            "sku": "LENOVO-LEGION-7I-GEN-9-BLACK",
+            "prices": [
+                {
+                    "value": {
+                        "currencyCode": "USD",
+                        "centAmount": 249900
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "brand",
+                    "value": "Lenovo"
+                },
+                {
+                    "name": "batteryLife",
+                    "value": 99.9
+                },
+                {
+                    "name": "color",
+                    "value": "Black"
+                },
+                {
+                    "name": "warranty",
+                    "value": 12
+                },
+                {
+                    "name": "processor",
+                    "value": "Intel Core i9-14900HX"
+                },
+                {
+                    "name": "memory",
+                    "value": "32GB DDR5-5600MHz"
+                },
+                {
+                    "name": "storage",
+                    "value": "2TB SSD"
+                },
+                {
+                    "name": "display",
+                    "value": "16-inch WQXGA (2560x1600) IPS, 500 nits, 240Hz"
+                },
+                {
+                    "name": "graphicsCard",
+                    "value": "NVIDIA GeForce RTX 4070 Laptop GPU 8GB GDDR6"
+                },
+                {
+                    "name": "camera",
+                    "value": "1080P FHD with Dual Microphone and Electronic Privacy Shutter"
+                },
+                {
+                    "name": "audio",
+                    "value": "Per-Key RGB Backlit Keyboard, Black"
+                },
+                {
+                    "name": "ports",
+                    "value": "USB-C (Thunderbolt 4 / USB4 40Gbps), with PD 140W and DisplayPort 1.4"
+                },
+                {
+                    "name": "weight",
+                    "value": "2.24 kg (4.94 lbs)"
+                }
+            ]
+        },
+        {
+            "sku": "LENOVO-LEGION-7I-GEN-9-SILVER",
+            "prices": [
+                {
+                    "value": {
+                        "currencyCode": "USD",
+                        "centAmount": 249900
+                    }
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "brand",
+                    "value": "Lenovo"
+                },
+                {
+                    "name": "batteryLife",
+                    "value": 99.9
+                },
+                {
+                    "name": "color",
+                    "value": "Silver"
+                },
+                {
+                    "name": "warranty",
+                    "value": 12
+                },
+                {
+                    "name": "processor",
+                    "value": "Intel Core i9-14900HX"
+                },
+                {
+                    "name": "memory",
+                    "value": "32GB DDR5-5600MHz"
+                },
+                {
+                    "name": "storage",
+                    "value": "2TB SSD"
+                },
+                {
+                    "name": "display",
+                    "value": "16-inch WQXGA (2560x1600) IPS, 500 nits, 240Hz"
+                },
+                {
+                    "name": "graphicsCard",
+                    "value": "NVIDIA GeForce RTX 4070 Laptop GPU 8GB GDDR6"
+                },
+                {
+                    "name": "camera",
+                    "value": "1080P FHD with Dual Microphone and Electronic Privacy Shutter"
+                },
+                {
+                    "name": "audio",
+                    "value": "Per-Key RGB Backlit Keyboard, Silver"
+                },
+                {
+                    "name": "ports",
+                    "value": "USB-C (Thunderbolt 4 / USB4 40Gbps), with PD 140W and DisplayPort 1.4"
+                },
+                {
+                    "name": "weight",
+                    "value": "2.24 kg (4.94 lbs)"
+                }
+            ]
+        }
+    ]
+}
